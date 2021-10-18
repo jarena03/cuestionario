@@ -1,8 +1,14 @@
-1
-2
-3
-4
-5
-6
-7
-8
+1) Que es internet?
+ El internet es el resultado de otro experimento llamado Apernet, es una red nacional de paquetes experimentales. El internet se compone de un gran numero de redes operadas independientemente.
+
+ 2)Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+Los bits, Codigo binario: 8 bits juntos son un byte, 1000 bytes son un kilo byte. Los medios fisicos de propagacion de bits son electricidad se da por medio de cables, luz transmite el internet por un cable de fibra optica y radio de ondas que transmite el internet inalambricamente por senales de radio.
+
+ 3)¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+El Ip se encarga de preguntar y mandar de computadora a computadora informacion y tambien manda la direccion de origen  y cada numero del Ip representa bits y cada Ip tiene 32 bits.
+El DNS organiza nombres con las direcciones que corresponden. La computadora usa el DNS para buscar nombres principales y obtener la direccion de IP asociada que es usada para conectarse al internet.
+Y el internet se organiza de una manera que cuando estas conectado a wifi este se conecta a un servidor de internet o ISP y este ISP te conecta con billones de dipositivos alrededor del mundo, a traves de millones de redes conectadas.
+
+ 4)Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+ Por medio de un protocolo de control para la transmicion, este protocolo tiene el manejo de mandar y recibir los datos como paquetes, por ejempo cuando spotify manda una cancion a tu dispositivo la manda en varios paquetes y las recibe el TCP que se encarga de ver que los paquetes esten completos y la reproduce, pero si falta un paquete la cancion suena mal o incompleta. Mientras alla mas routadores para estos paquetes mas confiable sera el internet.
+
