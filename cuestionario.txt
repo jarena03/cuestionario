@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1) Que es internet?
  El internet es el resultado de otro experimento llamado Apernet, es una red nacional de paquetes experimentales. El internet se compone de un gran numero de redes operadas independientemente.
 
@@ -12,3 +13,13 @@ Y el internet se organiza de una manera que cuando estas conectado a wifi este s
  4)Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
  Por medio de un protocolo de control para la transmicion, este protocolo tiene el manejo de mandar y recibir los datos como paquetes, por ejempo cuando spotify manda una cancion a tu dispositivo la manda en varios paquetes y las recibe el TCP que se encarga de ver que los paquetes esten completos y la reproduce, pero si falta un paquete la cancion suena mal o incompleta. Mientras alla mas routadores para estos paquetes mas confiable sera el internet.
 
+=======
+mi pregunta
+2
+3
+4
+5
+6
+7
+8
+>>>>>>> 9394b48348958c7380b324f47552abe899573ca7
