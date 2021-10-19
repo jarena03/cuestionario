@@ -18,7 +18,7 @@ Y el internet se organiza de una manera que cuando estas conectado a wifi este s
 2 6)La idea de encripción de llave pública es un tanto más antigua, ya que fue desarrollada por Diffie y Hellman a principios de los 70s. Con sistemas criptográficos de llave pública, existen dos contraseñas: Una pública y una privada (duh).
 3 7)pues lo que entendi es que con github tienes siempre copias de respaldo por si les llegan a pasar algo
 4 8)El proceso de la Búsqueda de Google puede dividirse en tres fases: Rastreo: Google explora la Web con programas automatizados, llamados rastreadores, que buscan páginas nuevas o actualizadas. Google guarda las direcciones de esas páginas (las URLs) en una enorme lista que consulta más adelante.
-5
+5javier arena y sebastian gutierrez
 6
 7
 8
